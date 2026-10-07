@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Algoritmos de Alta Performance
+Turma 2ECR • Ano 2023
+Checkpoint 06: Codificação de Huffman e Compressão Sem Perdas para Dados de Sensores
+
+ENUNCIADO ORIGINAL:
+Construir a árvore de prefixos de Huffman baseada nas frequências relativas dos códigos de telemetria e derivar a taxa teórica de compressão e entropia de Shannon do canal.

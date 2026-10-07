@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Algoritmos de Alta Performance
+Turma 2ECR • Ano 2023
+Checkpoint 03: Menor Caminho em Grafos: Algoritmo de Dijkstra e Fila de Prioridade
+
+ENUNCIADO ORIGINAL:
+Modelar a malha de roteamento de dados entre nós de monitoramento florestal como um grafo ponderado G = (V, E) e calcular as distâncias mínimas a partir da estação base usando Dijkstra com Heap Binário.

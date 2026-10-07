@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Algoritmos de Alta Performance
+Turma 2ECR • Ano 2023
+Checkpoint 04: Programação Dinâmica: Problema da Mochila 0/1 para Telemetria
+
+ENUNCIADO ORIGINAL:
+Determinar a seleção ótima de pacotes de telemetria com restrição de largura de banda W = 50 KB usando Programação Dinâmica para maximizar a entropia e valor da informação transmitida.

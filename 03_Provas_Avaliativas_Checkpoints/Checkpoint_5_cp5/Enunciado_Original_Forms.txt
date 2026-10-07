@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Algoritmos de Alta Performance
+Turma 2ECR • Ano 2023
+Checkpoint 05: Árvore Geradora Mínima (MST): Algoritmos de Kruskal e Prim
+
+ENUNCIADO ORIGINAL:
+Dimensionar o cabeamento e enlaces ópticos entre 8 centros de pesquisa na bacia amazônica minimizando o custo total com o algoritmo de Kruskal e estrutura Union-Find com compressão de caminhos.
